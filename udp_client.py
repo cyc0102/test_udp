@@ -1,6 +1,6 @@
 import socket
 
-host = '127.0.0.1'    
+host = '10.57.1.222'    
 #两个段口必须一致
 port = 25535
 addr = (host, port)
