@@ -2,7 +2,7 @@ import socket
 byte = 1024
 #两个端口要保持一致
 port = 25535  
-host = ""
+host = '10.57.1.222'
 addr = (host, port)
 
 #创建套接字
